@@ -1,0 +1,8 @@
+etrace2
+get_pstate
+measure_pstate_latency
+monitor_pstate
+raplreader_test
+set_pstate
+*.o
+*.a
